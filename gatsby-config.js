@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Ruhee Safiya`,
-    description: `Safiya's personal website.`,
-    keywords: [`gatsby`, `blog`],
+    description: `Ruhee Safiya's personal website.`,
+    keywords: [`gatsby`, `blog`, `ruhee`, `safiya`, `network`],
     author: `Ruhee Safiya`,
     siteUrl: `https://ruheesafiya.site`,
     menuLinks: [
@@ -36,6 +36,7 @@ module.exports = {
         remarkImagesWidth: 1920,
         // Blog theme
         excerptLength: 140,
+        // postListTitle: `Post`,
         // Lithium theme
         useHero: true,
         // Header Theme

@@ -45,11 +45,11 @@ const Hero = () => {
         >
           <GatsbyImage
             image={heroImage}
-            imgStyle={{ objectFit: "contain" }}
+            imgStyle={{ objectFit: "contain", borderRadius: "50%" }}
             sx={{
               gridColumn: ["1 / -1", null, "2 / 3", null, null],
               gridRow: "1 / 2",
-              maxHeight: ["200px", "300px", "400px", null, "500px"],
+              maxHeight: ["150px", "300px", "400px", null, "500px"],
             }}
           />
           <div

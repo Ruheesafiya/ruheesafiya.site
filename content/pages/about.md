@@ -1,6 +1,6 @@
 <Seo
   title="About"
-  description="I am an astronaut who likes to visit foreign planets. Unfortuntately I have not ever built a successful rocket and so have only visited this planet. But one day this will all change."
+  description="A short piece of writing that tells about my professional background, key accomplishments  and personal values."
 />
 
 # About
