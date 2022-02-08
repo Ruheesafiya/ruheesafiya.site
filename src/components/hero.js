@@ -59,19 +59,19 @@ const Hero = () => {
             }}
           >
             <Themed.p sx={{ fontSize: [3, null, null, null, 4] }}>
-              I am Network Enggineer and voice over artist. I am very{" "}
+              I am a project Manager by profession and a voice over artist by passion. My best traits are{" "}
               {hasMounted ? (
                 <Fragment>
                   <RoughNotation type="underline" show={true} strokeWidth={2}>
-                    compassionate
+                    communication
                   </RoughNotation>
                   <span> and </span>
                   <RoughNotation type="underline" show={true} strokeWidth={2}>
-                    destiny's child.
+                    compassion.
                   </RoughNotation>
                 </Fragment>
               ) : (
-                "compassionate and destiny's child."
+                "communication and compassion"
               )}
             </Themed.p>
             <Button
